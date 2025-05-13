@@ -29,7 +29,7 @@
 git clone https://github.com/Atambek07/Tic-Tak-Toe.git
 cd Tic-Tak-Toe
 pip install pygame
-python tic_tac_toe.py
+python main.py
 ```
 
 ---
